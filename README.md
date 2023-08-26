@@ -1,4 +1,4 @@
-# Colkie-chat-application
+# Chat-application
 Chat Application with React and Typescript
 
 # FrontEnd
